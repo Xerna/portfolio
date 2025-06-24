@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build output
+dist/
+*.log
+
+# OS archivos temporales
+.DS_Store
+Thumbs.db
+
+# Editor config (opcional)
+.vscode/
+.idea/
+
+# Otros temporales
+.env
+.env.*
