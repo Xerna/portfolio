@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . '/Portfolio');
+define('BASE_URL', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . '/portfolio');
 require_once 'helpers.php';
 require_once 'config/Database.php';
 require_once 'framework/Router.php';
